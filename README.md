@@ -1,2 +1,1 @@
-# CreativeCodingFall2020
-Place for my code for creative coding class
+This is a project template for Creative Coding STA 491
